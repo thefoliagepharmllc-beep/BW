@@ -1,0 +1,9 @@
+{
+  "name": "Bwell",
+  "short_name": "Bwell",
+  "description": "Wellness platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#0a8754"
+} 
