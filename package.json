@@ -13,4 +13,6 @@
     "react-dom": "latest",
   module.exports = {
   reactSstrictMode:true,
+module.exports = {
+  reactStrictMode: true,
 }; 
