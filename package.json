@@ -8,11 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-  module.exports = {
-  reactSstrictMode:true,
-module.exports = {
-  reactStrictMode: true,
-}; 
+    "next": "14.2.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+} 
