@@ -12,3 +12,7 @@ module.exports = withPWA({
 }); 
 Bash
 npm install next-pwa
+Bash
+git add .
+  git commit -m "added next-pwa"
+git push
