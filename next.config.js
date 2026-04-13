@@ -10,3 +10,5 @@ module.exports = withPWA({
     return config;
   },
 }); 
+Bash
+npm install next-pwa
